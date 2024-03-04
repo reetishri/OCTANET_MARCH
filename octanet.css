@@ -1,0 +1,44 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 10px;
+	padding: 10px;
+}
+
+header {
+	background-color: #2b3b4d;
+	color: rgb(236, 225, 225);
+	padding: 1rem;
+}
+
+h1 {
+	margin: 10px;
+}
+
+main {
+	padding: 2rem;
+}
+
+section {
+	margin-bottom: 2rem;
+}
+
+h2 {
+	color: #252627;
+	margin-top: 0;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 0.5rem;
+}
+
+footer {
+	background-color: #6c6f73;
+	color: rgb(244, 237, 237);
+	padding: 1rem;
+	text-align: center;
+}
